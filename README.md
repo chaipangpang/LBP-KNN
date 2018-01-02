@@ -1,10 +1,12 @@
 # LBP+KNN
-该代码提供了三种LBP特征提取算法，分别为：
+The code provides three LBP feature extraction algorithm, namely:
 
-* 1:灰度不变常规IBP算法（256）
+* 1: Gray scale constant Conventional IBP algorithm (256)
 
-* 2:等价灰度不变LBP算法（58）
+* 2: Equivalent Gray Scale Invariant LBP Algorithm (58)
 
-* 3:等价旋转不变LBP算法（9）
+* 3: Equivalent Spin-Invariant LBP Algorithm (9)
+
+blog:http://blog.csdn.net/chaipp0607/article/details/78161986
 
 
